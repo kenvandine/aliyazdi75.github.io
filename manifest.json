@@ -1,0 +1,18 @@
+{
+    "name": "Ali Yazdi Homepage",
+    "short_name": "Ali Yazdi Homepage",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#030303",
+    "theme_color": "#030303",
+    "description": "Ali Yazdi Homepage Application.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icon.png",
+            "sizes": "30x30",
+            "type": "image/png"
+        }
+    ]
+}
