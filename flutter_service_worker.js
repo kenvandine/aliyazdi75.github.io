@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "8c04121159053b7937817847c51f5c5c",
-"/": "8c04121159053b7937817847c51f5c5c",
+  "index.html": "b5c9d1ada46584f0243e7418bfee97e8",
+"/": "b5c9d1ada46584f0243e7418bfee97e8",
 "manifest.json": "befe9547e6bcc6181122d651d6b75b2e",
-"main.dart.js_3.part.js": "af0d55345a622976462ed4debd466f11",
+"main.dart.js_3.part.js": "5f96f73ea5239870c593279b78a243ed",
 "assets/assets/images/avatar.jpg": "28a5f4aa6bdb56f65ee6902324a73076",
 "assets/AssetManifest.json": "3c80e8da09959c5be3226d1c20827878",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
@@ -21,7 +21,7 @@ const RESOURCES = {
 "assets/fonts/IRANSans-Medium.ttf": "77506786a80fdbc188d33c16726f6924",
 "assets/fonts/IRANSans-SemiBold.ttf": "904b8ac65b457fe5f22d4dc8fe152fed",
 "assets/fonts/IRANSans-Bold.ttf": "2b1fab0906a9cdb19e7ecfb779e50b78",
-"assets/NOTICES": "283141bb54a9934fa4027995b346ace0",
+"assets/NOTICES": "3622fe00cd0959810c57974e087ccc6c",
 "assets/packages/flutter_localized_locales/data/kk.json": "836780ef5836e4acf454bb5e4d0fdf20",
 "assets/packages/flutter_localized_locales/data/en_GM.json": "bf74d66b5e8e980eedf36a517daf8a7f",
 "assets/packages/flutter_localized_locales/data/ks_Arab_IN.json": "332dc5172ab3f99f592ab72517f280d3",
@@ -590,12 +590,12 @@ const RESOURCES = {
 "favicon-16x16.png": "bfbf593c5127165adf8274dfb872c7f2",
 "icons/Icon-192.png": "8f2f10a9c7e4c16811662d81003e1ed0",
 "favicon-32x32.png": "69e00eabcdc89166f489e28f0745af91",
-"main.dart.js": "7cfb16491b9aebc58fc035745041b959",
+"main.dart.js": "2ed87f83869ab9c3d0d81aba790d9fd4",
 "version.json": "485ff384f812c307dfed110b5f0b0782",
 "favicon.ico": "9f909b457131cb3ef264465446eab1a8",
-"main.dart.js_2.part.js": "d63e012d2047cf7c054cd77971bf7bd8",
-"main.dart.js_1.part.js": "be1bb9b0349e9209de2ddf4bf43d870d",
-"404.html": "0a27a4163254fc8fce870c8cc3a3f94f"
+"main.dart.js_2.part.js": "b4f6bb0a93d43b5722d978bf1c0fcd25",
+"main.dart.js_1.part.js": "5e79d2fe5051ab3d40372f147eb59e48",
+"404.html": "d730a91a722af16c228746c77e7975bb"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -739,7 +739,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
