@@ -34,7 +34,7 @@ gye:function(){return"Ali Yazdi Homepage"},
 gIC:function(){return"ALI YAZDI"},
 gID:function(){return"CE GRADUATED @ TEHRAN POLYTECHNIC"},
 gK_:function(){return"Hi there, welcome to my page"},
-gFt:function(){return"I have been working as a Flutter developer and mobile team leader for two years. I am a CS graduate who interests in using Artificial Intelligence and Software Engineering in my work. I am an open-source advocate who helps developers to solve their problems in development. I am finding a better opportunity and willing to relocate to the new country. "},
+gFt:function(){return"I have been working as a Flutter developer and mobile team leader for two years. I am a CS graduate who interests in using Artificial Intelligence and Software Engineering in my work experiences. I am an open-source advocate who helps developers to solve their problems in development. I am finding a better opportunity and willing to relocate to a new country."},
 gJt:function(d){return"Resume"},
 gFu:function(){return"ABOUT"},
 gH0:function(){return"EDUCATION"},
@@ -82,4 +82,4 @@ y(S.lB,N.f0)})()
 H.a7Z(b.typeUniverse,JSON.parse('{"aaC":"T","abf":"T","aaI":"fl","aaD":"t","abI":"t","abV":"t","aaB":"a4","abl":"a4","acw":"dl","aaL":"a3","abW":"X","ab8":"X","abm":"eP","ace":"dp","aaX":"f9","ab5":"ea","aaS":"dv","ac4":"dv","abE":"hr","abo":"hk","abn":"hj","ab_":"bt","aaJ":"hp","lB":{"f0":[]}}'))
 0
 0}
-$__dart_deferred_initializers__["Wn1nHC5lxJ5YfseMh59r2Tsvbl0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["JHtijsaNuIjcYKrXEqOWHvf+/wY="] = $__dart_deferred_initializers__.current
