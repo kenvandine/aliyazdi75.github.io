@@ -56,14 +56,14 @@ gJB:function(){return"Tehran, Iran"},
 gJG:function(){return"March 2019"},
 gJF:function(){return"May 2020"},
 gJD:function(){return"Flutter, Drupal, Laravel, MySQL"},
-gJC:function(){return"Tarafdari is the first and most popular sports social media network in Iran, providing official news and live scores of national and international matches."},
+gJC:function(){return"Working as a mobile application team leader at one of the most popular sport social media."},
 gFP:function(){return"Application Page"},
 gIp:function(){return"Mate Machine Inc."},
 gIm:function(){return"Vancouver, BC, Canada"},
 gIr:function(){return"June 2019"},
 gIq:function(){return"Present"},
 gIo:function(){return"Flutter"},
-gIn:function(){return"Preparing the Flutter application for the first launch."},
+gIn:function(){return"Working as a flutter developer team leader to launch the application in three months."},
 gIH:function(){return"July 2013"},
 gII:function(){return"Qualified for the Second Round of the Iranian Physics Olympiad and Mathematical Olympiad"},
 gH8:function(){return"July 2015"},
@@ -82,4 +82,4 @@ y(S.lB,N.f0)})()
 H.a7Z(b.typeUniverse,JSON.parse('{"aaC":"T","abf":"T","aaI":"fl","aaD":"t","abI":"t","abV":"t","aaB":"a4","abl":"a4","acw":"dl","aaL":"a3","abW":"X","ab8":"X","abm":"eP","ace":"dp","aaX":"f9","ab5":"ea","aaS":"dv","ac4":"dv","abE":"hr","abo":"hk","abn":"hj","ab_":"bt","aaJ":"hp","lB":{"f0":[]}}'))
 0
 0}
-$__dart_deferred_initializers__["JHtijsaNuIjcYKrXEqOWHvf+/wY="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["3t4R5M6ky9ckI8em6PdIeF9tsOY="] = $__dart_deferred_initializers__.current
